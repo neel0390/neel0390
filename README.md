@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neel_Katkar
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
+- 👀 I’m interested Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me katkarneel@gmail.com
 - Skills: ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/98272499/202831517-b0034664-5ec3-4970-aeb3-4680c6fb093c.svg)
